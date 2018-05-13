@@ -6,7 +6,7 @@
 
 Install the package:
 
-  `pip install djmd`
+  `pip install django-md-editor`
 
 
 Add `djmd` to INSTALLED_APPS in `settings.py`.

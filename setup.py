@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name="djmd",
-    version='0.0.1',
+    name="django-md-editor",
+    version='0.0.3',
     description='djmd package helps integrate editor.md with Django.',
     long_description=open('README.md').read(),
     author='hakancelik96',
     author_email='hakancelik96@outlook.com',
-    packages=['djmd'],
+    packages=["djmd"],
     include_package_data=True,
     install_requires=[],
     url="https://github.com/coogger/django-md-editor",

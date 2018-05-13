@@ -1,0 +1,3 @@
+include README.md
+recursive-include djmd/static *
+recursive-include djmd/templatetags *
