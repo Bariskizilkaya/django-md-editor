@@ -50,5 +50,5 @@ class PageAdmin(admin.ModelAdmin):
 `{% load djmd_tags %}`
 - and use
 ```
-blabla|md_detail:"content"|safe
+{{ content|md_detail:"content"|safe }}
 ```
